@@ -1,9 +1,11 @@
+var VERSION = 'version_00';
 var cacheName = 'pwa';
+var GHPATH = '/pwa';
 var filesToCache = [
-  '/',
-  '/index.html',
-  '/css/style.css',
-  '/js/main.js'
+  '${GHPATH}/',
+  '${GHPATH}/index.html',
+  '${GHPATH}/css/style.css',
+  '${GHPATH}/js/main.js'
 ];
 
 /* Start the service worker and cache all of the app's content */
