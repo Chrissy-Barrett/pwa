@@ -26,9 +26,9 @@
         "sizes": "512x512",
         "type": "image/png"
       }],
-    "lang": "en-US",
+    "lang": "en-UK",
     "start_url": "/pwa/index.html",
-    "scope": "/pwa/",
+
     "display": "standalone",
     "background_color": "white",
     "theme_color": "white"
