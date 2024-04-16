@@ -28,7 +28,7 @@
       }],
     "lang": "en-US",
     "start_url": "/pwa/index.html",
-    "scope": "/pwa/".
+    "scope": "/pwa/",
     "display": "standalone",
     "background_color": "white",
     "theme_color": "white"
